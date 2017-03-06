@@ -72,5 +72,8 @@
     set laststatus=2
     " End of airline stuff "
     set t_Co=256
-    colorscheme spring-night
+    colorscheme industry
     " let g:airline_theme = 'spring_night'
+    set wildmode=full
+    set wildmenu
+
