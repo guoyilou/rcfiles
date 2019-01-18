@@ -9,7 +9,7 @@
 
     " let Vundle manage Vundle, required
     Plugin 'gmarik/Vundle.vim'
-    Plugin 'Valloric/YouCompleteMe' 
+    " Plugin 'Valloric/YouCompleteMe' 
     Plugin 'nvie/vim-flake8'
     Plugin 'bling/vim-airline'
     " The following are examples of different formats supported.
